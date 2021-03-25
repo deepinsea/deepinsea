@@ -10,6 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: deepbluet817@gmail.com
 
 ![deepinsea's GitHub stats](https://github-readme-stats.vercel.app/api/?username=deepinsea&show_icons=true&theme=vue) 
-
-[![](http://myftp-upyun.test.upcdn.net/imagesBed/20210326043543.svg?@deepinsea@Px8gc33rtXcQtRgc8bXi0lV/N/8=)](http://www.baidu.com)
-
