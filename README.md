@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 😄 I am deepinsea, a super handsome boy
+- 😄 My name is deepinsea, a super handsome boy
 - 🛠 I’m currently working with Java, Python, Javascript and SQL
 - 👨🏻‍💻 I’m currently learning Java Development
 - 💬 Ask me about anything, I am happy to help
