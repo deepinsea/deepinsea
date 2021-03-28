@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 😄 I am deepinsea, a super handsome boy
 - 📖 I'm currently working on Java development
-- 🛠 I'm interested in springcloud, Vue, docker and kubernetes etc
+- 🛠 I'm interested in springcloud, vue, docker and kubernetes etc
 - 💬 Ask me about anything, I am happy to help
 - 🌈 Fun fact: Always believe that paying and harvesting are directly proportional
 - 📭 How to reach me: deepbluet817@gmail.com
