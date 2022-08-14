@@ -1,13 +1,4 @@
-### Hi, Welcome to my Github page👋
-
-⛄一名双非本科的沪飘在飘程序员，<br>
-🚩 有一些自己的想法和目标，<br>
-🌈 最大的愿望是帮助更多人爬出黑暗，<br>
-🛸 渴望与奇怪大胆的思维进行碰撞,<br>
-🚀 也很高兴与你一起学习技术，一起起飞！
-
-Here are some ideas to get you started:
-
+### Hi, Welcome to my Github Page
 - 😄 I am deepinsea, a super handsome boy
 - 📖 I'm currently working on Java development
 - 🛠 I'm interested in springcloud, vue, docker and kubernetes etc
