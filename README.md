@@ -5,5 +5,3 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌈 Fun fact: Always believe that paying and harvesting are directly proportional
 - 📭 How to reach me: deepbluet817@gmail.com
-
-![deepinsea's GitHub stats](https://github-readme-stats.vercel.app/api/?username=deepinsea&show_icons=true&theme=vue) 
